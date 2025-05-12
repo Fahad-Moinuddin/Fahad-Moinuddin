@@ -1,6 +1,6 @@
 👋 Hi, I’m @Fahad-Moinuddin
 
-👀 I’m interested in machine learning, data science, and building intelligent, real-world applications
+👀 I’m interested in machine learning, cyber-security, and building intelligent, real-world applications
 
 🌱 I’m currently learning advanced neural networks, cloud deployment, and generative AI tools
 
@@ -10,7 +10,7 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I once programmed a robot that ranked 36th in BC as a beginner team in an international competition!
+⚡ Fun fact: I once programmed a robot that ranked 36th in BC as a beginner team in the FIRST Robotics international competition!
 
 <!---
 Fahad-Moinuddin/Fahad-Moinuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
